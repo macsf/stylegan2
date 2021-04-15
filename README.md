@@ -1,3 +1,18 @@
+## Additional
+
+**Include align_images routine**
+
+Additional align_images.py routine from [https://github.com/m-shimao/stylegan2-align-images].
+
+`python align_images.py /raw_images /aligned_images`
+
+**Also need to install `dlib` for face align routine**
+
+[https://github.com/davisking/dlib]
+
+[https://learnopencv.com/install-dlib-on-ubuntu/]
+
+
 ## StyleGAN2 &mdash; Official TensorFlow Implementation
 
 ![Teaser image](./docs/stylegan2-teaser-1024x256.png)
